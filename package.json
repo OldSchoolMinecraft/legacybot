@@ -1,0 +1,27 @@
+{
+  "name": "legacybot",
+  "version": "1.0.0",
+  "description": "A Discord bot designed for Old School Minecraft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OldSchoolMinecraft/legacybot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "minecraft"
+  ],
+  "author": "moderator_man",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OldSchoolMinecraft/legacybot/issues"
+  },
+  "homepage": "https://github.com/OldSchoolMinecraft/legacybot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
